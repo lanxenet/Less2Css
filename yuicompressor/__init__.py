@@ -1,0 +1,1 @@
+from yuicompressor import get_yui_compressor_cmd

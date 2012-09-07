@@ -1,0 +1,16 @@
+[
+  {
+    "id": "project",
+    "children":
+    [
+      {
+        "caption": "Less > Css",
+        "id": "l2c",
+        "children":
+        [
+          { "command": "less_to_css", "caption": "Compile this less file to css"}
+        ]
+      }
+    ]
+  }
+]
